@@ -16,7 +16,7 @@
 #### 演示地址
 http://47.95.248.80:8089/Search/index
 
-### 技术
+#### 技术
 
 - 爬虫:`Python` , `Scrapy` 
 - 后端:  `Lucene `,`JAVA Servlet` 
