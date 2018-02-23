@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+	<opml><head><title>People's Daily Online</title></head>
+	<body>
+		<outline text="English" title="English" type="rss" version="RSS" htmlUrl="http://english.people.com.cn" xmlUrl="http://english.people.com.cn/rss/90000.xml"/>
+<outline text="Leaders" title="Leaders" type="rss" version="RSS" htmlUrl="http://english.people.com.cn/102839" xmlUrl="http://english.people.com.cn/rss/102839.xml"/>
+<outline text="Opinions" title="Opinions" type="rss" version="RSS" htmlUrl="http://english.people.com.cn/90780" xmlUrl="http://english.people.com.cn/rss/90780.xml"/>
+<outline text="China_Politics" title="China_Politics" type="rss" version="RSS" htmlUrl="http://english.people.com.cn/90785" xmlUrl="http://english.people.com.cn/rss/90785.xml"/>
+<outline text="Foreign_Affairs" title="Foreign_Affairs" type="rss" version="RSS" htmlUrl="http://english.people.com.cn/90883" xmlUrl="http://english.people.com.cn/rss/90883.xml"/>
+<outline text="China_Military" title="China_Military" type="rss" version="RSS" htmlUrl="http://english.people.com.cn/90786" xmlUrl="http://english.people.com.cn/rss/90786.xml"/>
+<outline text="China_Business" title="China_Business" type="rss" version="RSS" htmlUrl="http://english.people.com.cn/90778" xmlUrl="http://english.people.com.cn/rss/90778.xml"/>
+<outline text="China_Society" title="China_Society" type="rss" version="RSS" htmlUrl="http://english.people.com.cn/90882" xmlUrl="http://english.people.com.cn/rss/90882.xml"/>
+<outline text="China_Features" title="China_Features" type="rss" version="RSS" htmlUrl="http://english.people.com.cn/102780" xmlUrl="http://english.people.com.cn/rss/102780.xml"/>
+<outline text="World" title="World" type="rss" version="RSS" htmlUrl="http://english.people.com.cn/90777" xmlUrl="http://english.people.com.cn/rss/90777.xml"/>
+<outline text="Life_Culture" title="Life_Culture" type="rss" version="RSS" htmlUrl="http://english.people.com.cn/90782" xmlUrl="http://english.people.com.cn/rss/90782.xml"/>
+<outline text="Science_Education" title="Science_Education" type="rss" version="RSS" htmlUrl="http://english.people.com.cn/202963" xmlUrl="http://english.people.com.cn/rss/202963.xml"/>
+<outline text="Photo" title="Photo" type="rss" version="RSS" htmlUrl="http://english.people.com.cn/90783" xmlUrl="http://english.people.com.cn/rss/90783.xml"/>
+<outline text="Video" title="Video" type="rss" version="RSS" htmlUrl="http://english.people.com.cn/98389" xmlUrl="http://english.people.com.cn/rss/98389.xml"/>
+<outline text="Sports" title="Sports" type="rss" version="RSS" htmlUrl="http://english.people.com.cn/90779" xmlUrl="http://english.people.com.cn/rss/90779.xml"/>
+<outline text="PD_Online_Database" title="PD_Online_Database" type="rss" version="RSS" htmlUrl="http://english.people.com.cn/102759" xmlUrl="http://english.people.com.cn/rss/102759.xml"/>
+<outline text="Special_Coverage" title="Special_Coverage" type="rss" version="RSS" htmlUrl="http://english.people.com.cn/102775" xmlUrl="http://english.people.com.cn/rss/102775.xml"/>
+	</body>
+</opml>

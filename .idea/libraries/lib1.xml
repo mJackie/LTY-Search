@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="lib1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/lucene-queryparser-6.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/lucene-expressions-6.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/lucene-highlighter-6.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/lucene-demo-6.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/lucene-queries-6.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/lucene-analyzers-smartcn-6.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/tika-app-1.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/lucene-analyzers-common-6.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/lucene-core-6.3.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

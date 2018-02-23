@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+	<opml><head><title>Жэньминь Жибао</title></head>
+	<body>
+		<outline text="В_КИТАЕ" title="В_КИТАЕ" type="rss" version="RSS" htmlUrl="http://russian.people.com.cn/31521/" xmlUrl="http://russian.people.com.cn/rss/31521.xml"/>
+<outline text="В_МИРЕ" title="В_МИРЕ" type="rss" version="RSS" htmlUrl="http://russian.people.com.cn/31520/" xmlUrl="http://russian.people.com.cn/rss/31520.xml"/>
+<outline text="В_РОССИИ_И_СНГ" title="В_РОССИИ_И_СНГ" type="rss" version="RSS" htmlUrl="http://russian.people.com.cn/31519/" xmlUrl="http://russian.people.com.cn/rss/31519.xml"/>
+<outline text="ЭКОНОМИКА" title="ЭКОНОМИКА" type="rss" version="RSS" htmlUrl="http://russian.people.com.cn/31518/" xmlUrl="http://russian.people.com.cn/rss/31518.xml"/>
+<outline text="КОММЕНТАРИИ" title="КОММЕНТАРИИ" type="rss" version="RSS" htmlUrl="http://russian.people.com.cn/95181/" xmlUrl="http://russian.people.com.cn/rss/95181.xml"/>
+<outline text="НАУКА_И_ОБРАЗОВАНИЕ" title="НАУКА_И_ОБРАЗОВАНИЕ" type="rss" version="RSS" htmlUrl="http://russian.people.com.cn/31517/" xmlUrl="http://russian.people.com.cn/rss/31517.xml"/>
+<outline text="ОБЩЕСТВО_И_КУЛЬТУРА" title="ОБЩЕСТВО_И_КУЛЬТУРА" type="rss" version="RSS" htmlUrl="http://russian.people.com.cn/31516/" xmlUrl="http://russian.people.com.cn/rss/31516.xml"/>
+<outline text="ПРОИСШЕСТВИЯ" title="ПРОИСШЕСТВИЯ" type="rss" version="RSS" htmlUrl="http://russian.people.com.cn/95184/" xmlUrl="http://russian.people.com.cn/rss/95184.xml"/>
+<outline text="СПОРТ" title="СПОРТ" type="rss" version="RSS" htmlUrl="http://russian.people.com.cn/31514/" xmlUrl="http://russian.people.com.cn/rss/31514.xml"/>
+<outline text="Газета" title="Газета" type="rss" version="RSS" htmlUrl="http://russian.people.com.cn" xmlUrl="http://russian.people.com.cn/rss/95181,31521,31518,31516,31520,31519,95460,31513.xml"/>
+	</body>
+</opml>
